@@ -1,0 +1,88 @@
+element.style {
+}
+.top-container {
+    background-color: rgb(210, 210, 210);
+    position: relative;
+    padding-top: 100px;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;}
+    element.style {
+    }
+    .middle-container {
+        margin: 100px 0;
+    }
+    user agent stylesheet
+    div {
+        display: block;
+        unicode-bidi: isolate;
+    }
+
+    body {
+        color: #40514e;
+        margin: 0;
+        text-align: center;
+        font-family: "Merriweather", serif;
+    }
+    element.style {
+    }
+    .intro {
+        width: 30%;
+        margin: auto;
+    }
+    p {
+        line-height: 2;
+    }
+    user agent stylesheet
+    p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        unicode-bidi: isolate;
+    }
+    body {
+        color: #40514e;
+        margin: 0;
+        text-align: center;
+        font-family: "Merriweather", serif;
+    }
+    element.style {
+    }
+    user agent stylesheet
+    div {
+        display: block;
+        unicode-bidi: isolate;
+    }
+    body {
+        color: #40514e;
+        margin: 0;
+        text-align: center;
+        font-family: "Merriweather", serif;}
+        element.style {
+        }
+        .bottom-container {
+             background-color: #b696d0;;
+            padding: 50px 0 20px;
+        }
+        user agent stylesheet
+        div {
+            display: block;
+            unicode-bidi: isolate;
+        }
+        body {
+            color: #40514e;
+            margin: 0;
+            text-align: center;
+            font-family: "Merriweather", serif;
+        }
+        
